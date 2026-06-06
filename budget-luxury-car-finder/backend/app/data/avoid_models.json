@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Audi A4/A6 Multitronic",
+    "make": "Audi",
+    "models": ["A4", "A6"],
+    "matchKeywords": ["multitronic"],
+    "penalty": -25,
+    "reason": [
+      "Multitronic gearbox risk on older used cars",
+      "Can be expensive to repair",
+      "S line models ride too firmly"
+    ]
+  },
+  {
+    "name": "BMW 3 Series / 5 Series diesel automatic around GBP 6k",
+    "make": "BMW",
+    "models": ["3 Series", "5 Series", "320", "520", "325", "525"],
+    "matchKeywords": ["diesel", "automatic"],
+    "penalty": -18,
+    "reason": [
+      "Insurance likely high for a 22-year-old",
+      "Repair costs can be high",
+      "Many cheap examples are high mileage and neglected"
+    ]
+  },
+  {
+    "name": "Jaguar XF diesel",
+    "make": "Jaguar",
+    "models": ["XF"],
+    "matchKeywords": ["diesel"],
+    "penalty": -22,
+    "reason": [
+      "Tempting luxury look for the money",
+      "Higher repair, electrical, DPF and insurance risk"
+    ]
+  },
+  {
+    "name": "Lexus IS250 / older Lexus GS petrol",
+    "make": "Lexus",
+    "models": ["IS250", "IS 250", "GS"],
+    "matchKeywords": ["petrol", "v6"],
+    "penalty": -16,
+    "reason": [
+      "Very smooth and reliable",
+      "But road tax, fuel cost and insurance are usually poor for this budget"
+    ]
+  },
+  {
+    "name": "Honda Accord automatic",
+    "make": "Honda",
+    "models": ["Accord"],
+    "matchKeywords": ["automatic"],
+    "penalty": -12,
+    "reason": [
+      "Good car",
+      "But many automatic versions have road tax above GBP 250"
+    ]
+  },
+  {
+    "name": "Citroen C5 / Peugeot 508 automatic",
+    "make": "",
+    "models": ["Citroen C5", "Peugeot 508", "C5", "508"],
+    "matchKeywords": ["automatic"],
+    "penalty": -18,
+    "reason": [
+      "Very comfortable",
+      "But gearbox, electrical and suspension risks can make 5-year ownership risky"
+    ]
+  }
+]

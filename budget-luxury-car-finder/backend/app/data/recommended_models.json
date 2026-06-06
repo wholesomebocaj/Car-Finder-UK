@@ -1,0 +1,97 @@
+[
+  {
+    "make": "Skoda",
+    "model": "Superb",
+    "years": [2013, 2015],
+    "engine": "2.0 TDI DSG",
+    "comfortScore": 9,
+    "reliabilityScore": 8,
+    "insuranceRisk": "Medium",
+    "gearboxRisk": "Medium",
+    "notes": [
+      "Excellent comfort and space for the money",
+      "Feels more expensive than it is",
+      "Only buy with DSG gearbox service proof",
+      "Check cambelt and water pump history"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "model": "Avensis",
+    "years": [2015, 2018],
+    "engine": "1.8 Valvematic CVT",
+    "comfortScore": 8,
+    "reliabilityScore": 9,
+    "insuranceRisk": "Low",
+    "gearboxRisk": "Low",
+    "notes": [
+      "Very sensible 5-year ownership choice",
+      "Comfortable and reliable",
+      "Less premium badge appeal but very low stress",
+      "Check exact road tax before buying"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "model": "CT 200h",
+    "years": [2011, 2015],
+    "engine": "1.8 Hybrid e-CVT",
+    "comfortScore": 7,
+    "reliabilityScore": 10,
+    "insuranceRisk": "Low-Medium",
+    "gearboxRisk": "Low",
+    "notes": [
+      "Very reliable",
+      "Low running costs",
+      "Premium badge",
+      "Ride can be firm, especially on large wheels"
+    ]
+  },
+  {
+    "make": "Volvo",
+    "model": "S60",
+    "years": [2014, 2016],
+    "engine": "D3/D4 Geartronic",
+    "comfortScore": 8,
+    "reliabilityScore": 7,
+    "insuranceRisk": "Medium",
+    "gearboxRisk": "Medium",
+    "notes": [
+      "Excellent seats and long-distance comfort",
+      "Avoid R-Design if comfort is the priority",
+      "Diesel DPF risk if used mostly for short journeys"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "model": "IS 300h",
+    "years": [2013, 2014],
+    "engine": "2.5 Hybrid e-CVT",
+    "comfortScore": 9,
+    "reliabilityScore": 10,
+    "insuranceRisk": "High",
+    "gearboxRisk": "Low",
+    "notes": [
+      "Very smooth and premium",
+      "Great reliability",
+      "Insurance may be too high for a 22-year-old",
+      "Avoid F Sport if comfort is the priority"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "E-Class",
+    "years": [2011, 2014],
+    "engine": "E220 CDI automatic",
+    "comfortScore": 10,
+    "reliabilityScore": 6,
+    "insuranceRisk": "High",
+    "gearboxRisk": "Medium",
+    "notes": [
+      "Genuinely luxurious",
+      "Excellent motorway comfort",
+      "Higher repair and insurance risk",
+      "Avoid AMG Sport if comfort and cost matter"
+    ]
+  }
+]
